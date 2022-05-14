@@ -1,0 +1,9 @@
+- Used APIs: openwearthermap.org
+- Other sources: 1. twilio : to send SMS
+                 2. latlong.net: to check the latitude and longitude
+
+Project: Rain Alert
+check the weather in the next 12 hours of day at the current location.
+If the weather can be rainly, then send an SMS to user to alert and tell them to bring an umbrella
+
+
